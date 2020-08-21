@@ -1,3 +1,16 @@
+What all things were used in this project are :-
+React JS 🔥🔥🔥🔥🔥🔥<br/>
+Google User authentication(Firebase) 🔒🔒🔒🔒<br/>
+React Hooks <br/>
+React Ticker<br/>
+Material UI(Icons)<br/>
+CSS Variables<br/>
+Flexbox<br/>
+REACT Router<br/>
+Videos are stored in Firebase<br/>
+Deploy using Firebase<br/>
+Real-time database(Firebase)<br/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
